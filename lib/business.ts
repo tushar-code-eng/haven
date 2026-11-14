@@ -4,7 +4,7 @@ export const BUSINESS = {
   brand: "Haven",
   legalName: "Haven - Love without Spiral",
   email: "havenlovewthoutspiral@gmail.com",
-  website: "https://yourdomain.com",
+  website: "https://haven-love.com",
   // Last update date shown on the policy pages.
   updated: "14 November 2026",
 };
